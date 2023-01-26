@@ -1,6 +1,7 @@
 # 👩‍💻 -  CodeValidate
 Python application validates products codes from a text file.  Once validated the program creates a new text file called sorted_code.txt.
 
+![valid_code](https://user-images.githubusercontent.com/66695865/214931522-39ba96ad-9297-4695-854e-d4b9f3631993.png)
 
 ## 💻 Built with
 <li>Python</li>
@@ -8,7 +9,7 @@ Python application validates products codes from a text file.  Once validated th
 ## 🛠️ Installation Steps:
 1. To start using this app you first need to clone the repository:
 
-    git clone git@github.com:revyrob/codeValidator.git
+    git clone git@github.com:revyrob/productSort.git
 
 2. Unzip the file, open file with editor.  Make sure all required extensions are installed to run a python program.  Example: For Visual Studio Code you can install the following extension (Python IntelliSense)
 
